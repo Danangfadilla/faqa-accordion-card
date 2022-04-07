@@ -1,0 +1,1 @@
+# faqa-accordion-card
